@@ -1,2 +1,2 @@
-# myste
+# mysite
 my first django app
